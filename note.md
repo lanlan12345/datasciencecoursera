@@ -1,7 +1,9 @@
 push the file into Github
 ===================
 [https://stackedit.io/editor] here is link to understand markdown, quite useful to make my notes here.
-[http://www.ruanyifeng.com/blog/2014/06/git_remote.html] helpful explanation
+[http://www.ruanyifeng.com/blog/2014/06/git_remote.html] 
+[https://coding.net/help/doc/git/push.html
+]helpful explanation
 ```
 cd desktop
 ```
