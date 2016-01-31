@@ -7,7 +7,13 @@ push the file into Github
 ```
 cd desktop
 ```
-to make you work directory, from which Git can push your file
+to make you work directory, from which Git can push your file.
+
+we can find help by (eg. add) 
+```
+git help add
+```
+we can quit the help page by typing `q` 
 
 then,
 ```
